@@ -2,6 +2,9 @@
 
 Приложение выводит 3 отеля звездности 3, 4, 5 * с минимальной ценой из поисковой выдачи Тез Тур
 
+![demo](https://raw.githubusercontent.com/AndreyMyagkov/tezminprices/master/public/tezminprices/i/demo.png)
+
+
 ### Конфигурация
 `tezMinPriceConfig = {
     locale: "ru",
