@@ -1,0 +1,155 @@
+{
+
+  "form": {
+    "label": {
+        "city": "Lähtepunkt",
+        "country": "Sihtpunkt",
+        "dates": "Väljalennu kuupäevad",
+        "duration": "Ööd alates - kuni",
+        "price": "Hind",
+        "tourists": "Reisijad",
+        "meal": "Toitlustus",
+        "hotel": "Kategooria",
+        "search": "Otsi",
+        "from": "Alates",
+        "to": "Kuni",
+        "anyF": "Mistahes",
+        "anyM": "Mistahes",
+        "anyS": "Mistahes",
+        "days": "0 päeva | {n} päev | {n} päeva | {n} päeva",
+        "andBetter": "ja parem",
+        "regions": "Regioonid",
+        "allRegions": "Kõik regioonid",
+        "hotels": "Hotellid",
+        "hotelsSearch": "Otsige nime järgi",
+        "selectedHotels": "Valitud hotellidtühista",
+        "hotelBlockButton": "Laiendatud otsing",
+        "clear": "Tühista",
+        "childrenAges": "Laste vanus"
+    }
+  },
+  "results": {
+    "header":{
+      "grouping": "Gruppeerimine",
+      "byHotel": "hotelli järgi",
+      "noGroupping": "Mitte gruppeerida",
+      "placesInHotel": "hotellitoad",
+      "roundTripTickets": "edasi-tagasi piletid",
+      "businessClassRoundTrip": "edasi-tagasi äriklass",
+      "many": "olemas",
+      "few": "vähe",
+      "none": "ei ole",
+      "request": "päringu alusel",
+      "not-included": "ei sisaldu hinnas",
+      "tezRecommended": "TEZ soovitab",
+      "tezPriority": "TEZ prioriteet",
+      "tezExclusive": "TEZ eksklusiiv"
+    },
+    "card":{
+      "flights": "Väljumised",
+      "showTours": "Näita reise",
+      "closeTours": "Varja reise",
+      "order": "Päring",
+      "aeroport": "Saabumise lennujaam",
+      "packet": {
+        "flight": "Lend",
+        "accommodation": "Majutus",
+        "transfer": "Transfeer",
+        "insurance": "Kindlustus"
+      }
+    },
+    "tourists": {
+      "adult": "ilma täiskasvanuteta | {n} täiskasvanu | {n} täiskasvanut | {n} täiskasvanut",
+      "childs": " | {n} laps | {n} last | {n} last"
+    },
+    "avalability": {
+      "not-included": "ei sisal hinnas",
+      "No": "ei ole",
+      "Few": "vähe",
+      "Available": "olemas",
+      "placesInHotel": "Kohad hotellis",
+      "ticketsEconomTo": "Piletid sihtkohta",
+      "ticketsEconomFrom": "Tagasilennu piletid",
+      "ticketsBusinessTo": "Äriklass sihtkohta",
+      "ticketsBusinessFrom": "Tagasilend äriklassis",
+      "booking": "Broneeri"
+    },
+    "pagination": {
+      "loadMore": "Rohkem tulemusi",
+      "show": "Näidata",
+      "next": "järgmised | järgmist | järgmised | järgmised"
+    },
+    "progressbar": {
+      "progress": "Otsing lõpetatud",
+      "found": "Leitud",
+      "foundMore": "Leitud veel",
+      "pricefrom": "hind alates",
+      "show": "Näidata",
+      "tours": "reisi | reis | reisi | reisi"
+    },
+    "error": {
+      "notFound": "Reise ei leitud"
+    },
+    "tours": "0 reisi | {n} reis | {n} reisi | {n} reisi",
+    "from": "alates"
+  },
+  "order": {
+    "title": "Reisipäring",
+    "hotel": "Hotell",
+    "country": "Riik",
+    "dates": "Reisi periood",
+    "nights": "Öödе arv",
+    "room": "Majutus",
+    "meal": "Toitlustus",
+    "transfer": "Transfeerid",
+    "transferIncluded": "Transfeer hotelli ja tagasi",
+    "transferNotIncluded": "Ülekanne ei kuulu komplekti",
+    "price": "Maksumus",
+    "tourists": "Reisijad",
+    "tourist": "Reisija",
+    "name": "Nimi",
+    "secondName": "Perekonnanimi",
+    "nationality": "Kodakondsus",
+    "gender": "Sugu",
+    "male": "Mees",
+    "female": "Naine",
+    "birthDay": "Sünniaeg",
+    "phone": "Telefoni Nr",
+    "email": "E-mail",
+    "address": "Aadress",
+    "note": "Kommentaarid ja soovid reisikonsultandile",
+    "success": "Reisipäring on edukalt edastatud, meie konsultandid võtavad Teiega ühendust!",
+    "error": "Tekkis viga, proovige palun uuesti.",
+    "send": "Esita",
+    "newsletter": "Jah, liitun uudiskirjaga",
+    "operator": "TezTour",
+    "to": "Reisikorraldaja"
+  },
+  "date": {
+    "weekDay": ["P", "E", "T", "K", "N", "R", "L"],
+    "month3": ["jaan", "veeb", "märts", "apr", "mai", "juun", "juul", "aug", "sept", "okt", "nov", "dets"],
+    "nights": "0 ööd | {n} öö | {n} ööd | {n} ööd",
+    "ddmmyyyy": "DD.MM.YYYY"
+  },
+  "country": {
+    "147573": "Austria",
+    "7067149": "AÜE",
+    "158976": "Bulgaaria",
+    "5732": "Egiptus",
+    "1001354": "Gruusia",
+    "5733": "Hispaania",
+    "143785": "Iisrael",
+    "158062": "Indoneesia",
+    "154020": "Itaalia",
+    "7067498": "Kreeka",
+    "111137": "Kuuba",
+    "7067673": "Küpros",
+    "166775": "Maldiivid",
+    "132579": "Portugal",
+    "136683": "Prantsusmaa",
+    "12695": "Tai Kuningriik",
+    "1104": "Türgi",
+    "4106029": "Valgevene",
+    "150601": "Venemaa"
+  }
+}
