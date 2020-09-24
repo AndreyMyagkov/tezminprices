@@ -345,7 +345,7 @@ export default {
     display: inline-block;
     width: 18px;
     height: 18px;
-    /background: url(/tezminprices/i/tourpackage-icons.png) #007cb9;
+    background: url(/tezminprices/i/tourpackage-icons.png) #007cb9;
     margin-right: 5px;
     position: relative;
 }
